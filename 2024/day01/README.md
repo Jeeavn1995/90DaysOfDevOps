@@ -1,7 +1,7 @@
 # Introduction - Day 1
 
 Welcome to the #90DaysOfDevOps Challenge with the #TrainWithShubham Community! Today, we begin our journey into the world of DevOps. Here’s what you need to do:
-#############this is git lab############
+
 1. **Fork this Repository:**
    - Go to the repository on GitHub and fork it to your own account. This will allow you to track your progress and contribute.
 
